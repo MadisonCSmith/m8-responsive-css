@@ -14,3 +14,17 @@ see http://stackoverflow.com/questions/6871996/css-two-inline-block-width-50-ele
 
 
 /* Assign styles here */
+
+.wrapper {
+	font-size: 2rem;
+	display: inline-block;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	background-color: #dad9d9;
+}
+
+#photo {
+	height: 400px;
+	background: gray;
+}
